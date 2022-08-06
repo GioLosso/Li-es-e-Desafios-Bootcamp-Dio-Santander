@@ -1,2 +1,5 @@
-# Li-es-e-Desafios-Bootcamp-Dio-Santander
 Beca - Code Girl Santander
+
+Treinamento DIO - Bootcamp.
+
+Exemplos e exercicios feitos ao longo do treinamento
